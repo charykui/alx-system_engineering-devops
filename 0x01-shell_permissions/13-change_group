@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chgrpc --changes school hello
+sudo chgrp --c school hello
